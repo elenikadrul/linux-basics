@@ -19,3 +19,9 @@ Build practical Linux skills required for a SOC Analyst role.
 
 ## 📂 Files
 - commands.md → list of basic Linux commands
+---
+
+## 🧠 What I’m Practicing
+- Navigating the Linux file system
+- Managing files and directories
+- Understanding file permissions in a security context
